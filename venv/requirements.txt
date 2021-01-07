@@ -29,7 +29,7 @@ html5lib==0.999
 httplib2==0.8
 itsdangerous==0.24
 Jinja2==2.7.3
-lxml==3.3.3
+lxml==4.6.2
 MarkupSafe==0.23
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
